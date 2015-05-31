@@ -1,1 +1,1 @@
-https://github.com/rmokrzycki/pokaz-slidow.git
+http://slides.com/rmokrzycki/deck
